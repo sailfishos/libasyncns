@@ -1,0 +1,18 @@
+* Mon Oct 17 2011 Marko Saukko <marko.saukko@cybercom.com> - 0.8
+- Updated to latest upstream version.
+
+* Sat Feb 27 2010 Anas Nashif <anas.nashif@intel.com> - 0.7
+- Use spectacle
+
+* Wed Dec 24 2008 Arjan van de Ven <arjan@linux.intel.com> 0.7
+- Update to version 0.7
+
+* Tue Dec 16 2008 Anas Nashif <anas.nashif@intel.com> 0.5
+- Update spec file using latest spec-builder
+
+* Sat Dec 13 2008 Arjan van de Ven <arjan@linux.intel.com> 0.5
+- Standardize the packaging
+
+* Sat Sep 20 2008 Anas Nashif <anas.nashif@intel.com> 0.5
+- initial import into moblin
+

@@ -1,0 +1,8 @@
+<package project="home:stskeeps:qtmobilitywebkit" name="libasyncns">
+  <title>Asynchronous Name Service Library</title>
+  <description>Description: %{summary}
+
+
+</description>
+  <url>http://0pointer.de/lennart/projects/libasyncns</url>
+</package>
