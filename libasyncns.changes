@@ -1,3 +1,6 @@
+* Thu Jan 17 2019 Tomi Leppänen <tomi.leppanen@jolla.com> - 0.8-2
+- [packaging] Add libasyncs-doc subpackage. Contributes to JB#24119
+
 * Mon Oct 17 2011 Marko Saukko <marko.saukko@cybercom.com> - 0.8
 - Updated to latest upstream version.
 
